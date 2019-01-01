@@ -1,15 +1,14 @@
-/* TODO: */
-.App {
+.Main {
   text-align: center;
 }
 
-.App-header {
+.Main-header {
   background-color: lightyellow;
   height: 150px;
   padding: 20px;
   color: white;
 }
 
-.App-intro {
+.Main-intro {
   font-size: large;
 }

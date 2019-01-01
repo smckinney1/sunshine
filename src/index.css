@@ -10,6 +10,10 @@ body {
   font-weight: var(--default-font-weight);
 }
 
+a {
+  text-decoration: none;
+}
+
 h1 {
   font-weight: var(--bold);
 }
