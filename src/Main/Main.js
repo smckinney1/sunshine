@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom';
 
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
@@ -21,7 +21,8 @@ const Home = () => (
       </Link>
     </section>
     <p className="Main-intro">
-      Cupcake ipsum dolor sit. Amet pudding jujubes halvah jelly-o. Cookie croissant sweet jelly-o jelly-o jelly cake jelly lemon drops.
+      Cupcake ipsum dolor sit. Amet pudding jujubes halvah jelly-o.
+      Cookie croissant sweet jelly-o jelly-o jelly cake jelly lemon drops.
     </p>
   </div>
 );
