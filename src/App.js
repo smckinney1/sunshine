@@ -16,9 +16,9 @@ const App = () => (
   <Router>
     <Fragment>
       <CssBaseline />
-      <Route exact path="/" component={Main} />
+      <Route exact path="/login" component={Main} />
       <AppContainer>
-        <Route path="/home" component={Home} />
+        <Route path="/" exact component={Home} />
         <Route path="/add" component={AddList} />
         <Route path="/favorites" component={Favorites} />
         <Route path="/help" component={Help} />
